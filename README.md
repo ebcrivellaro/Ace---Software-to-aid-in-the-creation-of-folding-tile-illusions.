@@ -1,9 +1,9 @@
 # Ace---Software-to-aid-in-the-creation-of-folding-tile-illusions.
 Software to aid in the creation of folding tile illusions with python.
 
-###During my undergraduate thesis research, I worked on creating multiple [Folding Tile Illusions](https://diffusionillusion.github.io) using digital painting; this software was created to assist in the creation of these works.
+### During my undergraduate thesis research, I worked on creating multiple [Folding Tile Illusions](https://diffusionillusion.github.io) using digital painting; this software was created to assist in the creation of these works.
 
-##Controls:
+## Controls:
 
 WASD: Move rectangle
 
@@ -22,9 +22,9 @@ R: Reverse rotation direction
 ESC: Exit
 
 
-###Durante minha pesquisa de Conclusão de Curso, trabalhei na criação de multiplas [Folding Tile Illusions](https://diffusionillusion.github.io) por meio de pintura digital; esse software foi criado para auxiliar a criação dessas obras.
+### Durante minha pesquisa de Conclusão de Curso, trabalhei na criação de multiplas [Folding Tile Illusions](https://diffusionillusion.github.io) por meio de pintura digital; esse software foi criado para auxiliar a criação dessas obras.
 
-##Controles:
+## Controles:
 
 WASD: Mover retângulo
 
