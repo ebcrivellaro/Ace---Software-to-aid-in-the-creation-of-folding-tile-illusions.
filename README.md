@@ -1,6 +1,8 @@
 # Ace---Software-to-aid-in-the-creation-of-folding-tile-illusions.
 Software to aid in the creation of folding tile illusions with python.
 
+![alt text](https://github.com/ebcrivellaro/Ace---Software-to-aid-in-the-creation-of-folding-tile-illusions./blob/main/ace_working.gif)
+
 ### During my undergraduate thesis research, I worked on creating multiple [Folding Tile Illusions](https://diffusionillusion.github.io) using digital painting; this software was created to assist in the creation of these works.
 
 ## Controls:
